@@ -18,7 +18,7 @@ package:
 
 source:
   url: https://github.com/WebAssembly/binaryen/archive/version_{{ version }}.tar.gz
-  sha256: 5c068b100cf3c1aa2e26f159a6a1896f2b7825ee8f2cf917d385f4b87cee95e3
+  sha256: 53f01137c3c420e691f4e7fc781896c24eb4da2bc064a5c8a7495d073c3740e2
 
 build:
   number: 0
